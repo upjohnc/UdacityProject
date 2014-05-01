@@ -1,0 +1,12 @@
+16:14:19,113  INFO Domino:89 - ================================================================================
+16:14:19,124  INFO Domino:89 - starting client
+16:14:19,126 DEBUG Domino:70 - CWD = /Users/user/Projects/UdacityProject
+16:14:19,128  INFO Domino:89 - executing command: upload
+16:14:36,446  INFO Domino:89 - ================================================================================
+16:14:36,450  INFO Domino:89 - starting client
+16:14:36,454 DEBUG Domino:70 - CWD = /Users/user/Projects/UdacityProject
+16:14:36,455  INFO Domino:89 - executing command: restart
+16:14:43,724  INFO Domino:89 - ================================================================================
+16:14:43,727  INFO Domino:89 - starting client
+16:14:43,731 DEBUG Domino:70 - CWD = /Users/user/Projects/UdacityProject
+16:14:43,732  INFO Domino:89 - executing command: reset
